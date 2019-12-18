@@ -1,0 +1,2 @@
+javac <package name>\*.java
+javac <package name>.<file.java>
